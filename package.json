@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/kz4/test-mandrill/issues"
   },
-  "homepage": "https://github.com/kz4/test-mandrill#readme"
+  "homepage": "https://github.com/kz4/test-mandrill#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "node-mandrill": "^1.0.1",
+    "request": "^2.79.0",
+    "underscore": "^1.8.3"
+  }
 }
